@@ -241,8 +241,7 @@
     ```
     
     - 실제사례: Obisidian Quiz Generator 플러그인. 사용자가 입력한 노트를 기반으로 퀴즈를 생성해주는 옵시디언 플러그인입니다!
-        
-        ![스크린샷 2025-07-18 오후 2.59.58.png](attachment:0dd514c4-57cf-4c36-954a-34c3c780fee0:스크린샷_2025-07-18_오후_2.59.58.png)
+        <img width="649" height="375" alt="스크린샷 2025-07-18 오후 4 02 54" src="https://github.com/user-attachments/assets/852010c4-9570-4eba-856b-f91e73065a68" />
         
     - https://github.com/ECuiDev/obsidian-quiz-generator
 - 피어 컴파일링 음성 녹음 후 AI에게 요약을 맡기고 좋았던 아이디어를 슬랙에 공유하기
