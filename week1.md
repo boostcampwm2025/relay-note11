@@ -698,3 +698,29 @@ day4:
 - 이벤트 시스템의 **온/이밋 메서드 구현**, **지연 호출**, **모든 이벤트/모든 sender 조건 처리** 등 요구사항을 거의 모두 충족시킴.
     
 - 설계의 미흡함을 공유하며 **설계에 대한 학습과 개선 의지**도 보여준 의미 있는 세션.
+
+---
+
+<br>
+
+
+**J089_남승현 수행 결과**   
+
+- 매일 퀴즈를 만드는 것이 목표였으나, 매일 만들지 못했음.
+- Day06~Day09 4일치 학습 내용에 대한 퀴즈를 ChatGpt를 통해 만들어 보았음.
+- 사용한 프롬프트:
+```text
+이번주에 학습한 OOP, 파일 시스템, 함수형 프로그래밍, 스레드, 비동기를 가지고 15문항(객관식 10문항 + OX 5문항), 난이도 중, 퀴즈를 만들어줘. 답변은 바로 알려주지 말아줘.
+```
+↓
+```text
+google sheet에, Question, Correct Answer, Choice 1, Choice 2, Choice 3, Choice 4 이런식으로 들어가도록 작성해줘
+
+```
+↓
+```text
+apps script code for converting to google form quiz
+```
+- 결과물:
+  - [구글폼](https://docs.google.com/forms/d/e/1FAIpQLScmknfqhAeTPOLxF32_znWlwadtUCITNZvCj6zdXMKEVR1-1A/viewform?usp=dialog)
+  - [TypeForm](https://form.typeform.com/to/rnVFVOvH)
