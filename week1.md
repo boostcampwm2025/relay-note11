@@ -724,3 +724,5 @@ apps script code for converting to google form quiz
 - 결과물:
   - [구글폼](https://docs.google.com/forms/d/e/1FAIpQLScmknfqhAeTPOLxF32_znWlwadtUCITNZvCj6zdXMKEVR1-1A/viewform?usp=dialog)
   - [TypeForm](https://form.typeform.com/to/rnVFVOvH)
+- 개선점:
+  - 정답과 해설도 포함하기
