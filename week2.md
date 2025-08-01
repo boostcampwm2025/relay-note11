@@ -161,3 +161,26 @@ A 요리가 끓는 동안 B 요리를 썰고, 그다음 C 요리를 오븐에 �
 - 생각보다 마인드셋을 바꾸는데에 도움이 됐던거 같다.
 
 </details>
+
+<details>
+  <summary> J171 - 퀘스트 1: 개념 비유로 정복하기 </summary>
+    git의 용량 최소화 방식에 대해 물어보고, 이를 비유적으로 표현해달라 했다.
+    
+    GPT와의 대화 :https://chatgpt.com/share/688c362e-8a64-800b-acda-18f20ff5c9a7
+    
+    가장 핵심 질문은 
+    
+    <img width="958" height="259" alt="image" src="https://github.com/user-attachments/assets/252fdc96-24f2-4b98-87c1-6377e6c4e28c" />
+
+    
+    이거였다. 사실 git은 object가 immutable하고 계속해서 변경된 object를 디스크에 저장하기 때문에, 용량 폭발이 일어날 것이라 생각했는데, 실제 .git의 용량을 보면 working directory의 나머지 파일들보다 작기도 하다.
+    이게 어떻게 가능한지 이해가 안되서 이를 물어보고 비유적으로 설명해달라 했다.
+    
+     <img width="852" height="491" alt="image" src="https://github.com/user-attachments/assets/2751e68a-af1a-4eb3-9e13-80fece633ca8" />
+
+    
+    그에 대한 답의 일부인데, 일상 생활과 유사한 예시를 들어줘서, 직관적인 이해가 되었다.
+    예상보다 더 이해에 도움이 되었다. 앞으로도 모순적인 현상을 마주할 때마다 종종 이 방법을 이용할 것 같다.
+</details>
+
+  
